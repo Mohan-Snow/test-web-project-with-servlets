@@ -4,15 +4,15 @@
            xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
 		  http://java.sun.com/xml/ns/javaee/web-app_4_0.xsd" version="3.0">
 
-    <display-name>MohanWebApp</display-name>
+<!--    <display-name>MohanWebApp</display-name>-->
 
-    <servlet>
-        <servlet-name>main-servlet</servlet-name>
-        <servlet-class>MainControllerServlet</servlet-class>
-    </servlet>
+<!--    <servlet>-->
+<!--        <servlet-name>main-servlet</servlet-name>-->
+<!--        <servlet-class>MainControllerServlet</servlet-class>-->
+<!--    </servlet>-->
 
-    <servlet-mapping>
-        <servlet-name>main-servlet</servlet-name>
-        <url-pattern>/some-path/main</url-pattern>
-    </servlet-mapping>
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>main-servlet</servlet-name>-->
+<!--        <url-pattern>/some-path</url-pattern>-->
+<!--    </servlet-mapping>-->
 </web-app>

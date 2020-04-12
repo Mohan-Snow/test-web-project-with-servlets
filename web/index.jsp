@@ -5,6 +5,6 @@
   </head>
   <body>
     <h2>This is my application</h2>
-    <a href="${pageContext.request.contextPath}/some-path/main">link...</a>
+    <a href="${pageContext.request.contextPath}/some-path">link...</a>
   </body>
 </html>
